@@ -7,6 +7,7 @@ People always debate about technologies they want to use or think are cool and w
 ## Micro Services 
 
 * [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+* [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
 
 
 
